@@ -1,0 +1,10 @@
+# Example requirements.txt
+# Add your packages here with pinned versions
+# 
+# Examples:
+# requests==2.31.0
+# numpy==1.24.0
+# pandas==2.0.0
+# flask==2.3.0
+
+requests==2.31.0
